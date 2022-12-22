@@ -48,7 +48,7 @@ system('calc');
 3. Compress config.xml and exp.php into one compressed package like exp.zip:
 
 
-4. Upload this exp.zip file in /index.php/admin/pluginmanager?sa=index :
+4. Upload this exp.zip file in **/index.php/admin/pluginmanager?sa=index** :
 
 ![image](https://user-images.githubusercontent.com/71068573/209114125-96840b66-2f3c-40b4-a67f-0324c2fc544d.png)
 
